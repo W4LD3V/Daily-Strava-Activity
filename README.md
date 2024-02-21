@@ -9,7 +9,7 @@ Create a manual activity every day for the perfect activity streak.
 ## Setup
 
 1. Download this repository.
-2. Fill in the login, client id & client secret information which is found in: https://www.strava.com/settings/api.
+2. Fill in the .env file login, client id & client secret information which is found in: https://www.strava.com/settings/api.
 3. You can change the activity type, name, duration & time which you want to log each day by changing theese variables: `name, type, sport_type, start_date_local`.
 5. Test the app by running `python app.py`.
 
